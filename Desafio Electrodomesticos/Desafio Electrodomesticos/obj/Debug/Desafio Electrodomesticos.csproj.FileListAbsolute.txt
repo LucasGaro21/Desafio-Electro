@@ -1,0 +1,7 @@
+D:\Visual Studio\Trabajos\Desafio Electrodomesticos\Desafio Electrodomesticos\bin\Debug\Desafio Electrodomesticos.exe.config
+D:\Visual Studio\Trabajos\Desafio Electrodomesticos\Desafio Electrodomesticos\bin\Debug\Desafio Electrodomesticos.exe
+D:\Visual Studio\Trabajos\Desafio Electrodomesticos\Desafio Electrodomesticos\bin\Debug\Desafio Electrodomesticos.pdb
+D:\Visual Studio\Trabajos\Desafio Electrodomesticos\Desafio Electrodomesticos\obj\Debug\Desafio Electrodomesticos.csproj.AssemblyReference.cache
+D:\Visual Studio\Trabajos\Desafio Electrodomesticos\Desafio Electrodomesticos\obj\Debug\Desafio Electrodomesticos.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Trabajos\Desafio Electrodomesticos\Desafio Electrodomesticos\obj\Debug\Desafio Electrodomesticos.exe
+D:\Visual Studio\Trabajos\Desafio Electrodomesticos\Desafio Electrodomesticos\obj\Debug\Desafio Electrodomesticos.pdb
